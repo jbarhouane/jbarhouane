@@ -16,7 +16,7 @@ I’m building projects that apply analytics and engineering principles to real-
 📫 Contact: jbarhouane@gmail.com  
 🔗 LinkedIn: linkedin.com/in/jcbarhouane
 
-Formerly known as Jessica Mason.
+Earlier professional experience under the name Jessica Mason.
 
 <!---
 jbarhouane/jbarhouane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
