@@ -1,26 +1,28 @@
 # Jessica Barhouane
 
-**Data Analyst | Aspiring Data Engineer**
+**Inventory Control Analyst | SQL Server, Python & Data Automation | Data Engineering Focus**
 
-I work with data to uncover insights, improve operations, and support decision-making. I’m currently expanding my skills in:
+I build and improve data workflows that support inventory, replenishment, purchasing, auditing, and operational reporting.
 
-- Python  
-- SQL  
-- Data Modeling  
-- ETL Pipelines  
-- Cloud Technologies (AWS / Azure)  
-- Machine Learning Foundations  
+My work includes refactoring and optimizing complex T-SQL processes, integrating data across operational systems, automating SQL and Excel workflows with Python, and applying business rules to transform, validate, and reconcile data.
 
-I’m building projects that apply analytics and engineering principles to real-world datasets, and I’m gradually transitioning toward data engineering.
+## Technical Focus
 
-📫 Contact: jbarhouane@gmail.com  
-🔗 LinkedIn: linkedin.com/in/jcbarhouane
+- SQL Server and T-SQL
+- Stored procedures, dynamic SQL, CTEs, temporary tables, and query optimization
+- Python, pandas, pyodbc, and Excel automation
+- ETL and data pipeline development
+- Data transformation and relational data design
+- Data-quality controls and reconciliation
+- Cross-system data integration
+- Operational reporting and exception workflows
+- Git and version control
 
-Earlier professional experience under the name Jessica Mason.
+## Portfolio Development
 
-<!---
-jbarhouane/jbarhouane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am creating sanitized projects based on real operational challenges, using synthetic data to demonstrate inventory pipelines, SQL performance optimization, data-quality controls, and Python automation.
 
+## Connect With Me
 
+📫 [Email](mailto:jbarhouane@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jcbarhouane)
